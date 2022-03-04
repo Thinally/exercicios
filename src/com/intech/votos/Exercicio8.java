@@ -6,7 +6,7 @@ public class Exercicio8 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Primeiro numero: ");
+        System.out.println("Primeiro número: ");
         int num1 = sc.nextInt();
         System.out.println("Segundo numero: ");
         int num2 = sc.nextInt();
