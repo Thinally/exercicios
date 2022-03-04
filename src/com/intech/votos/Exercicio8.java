@@ -8,7 +8,7 @@ public class Exercicio8 {
 
         System.out.println("Primeiro número: ");
         int num1 = sc.nextInt();
-        System.out.println("Segundo numero: ");
+        System.out.println("Segundo número: ");
         int num2 = sc.nextInt();
         System.out.println("Terceiro numero: ");
         int num3 = sc.nextInt();
